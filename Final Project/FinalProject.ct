@@ -1,0 +1,8 @@
+[ENABLE]
+004C73EF:
+  nop
+  nop
+
+[DISABLE]:
+004C73EF:
+db FF 08
